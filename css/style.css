@@ -33,15 +33,6 @@ background-color: rgb(0, 0, 0) !important;
     justify-content: center;
 }
 
-.foto1{
-    margin: auto;
-    width: 900px; 
-    height: 350px;
-    padding: 50px;
-}
-
-
-
 .perfil{
     display: flex;
     justify-content: center;
@@ -57,9 +48,6 @@ padding-left: 200px;
 flex-direction: row;
 align-items: center;
 justify-content: center;
-
-
-
 }
 
 .ParrafoIzquierda{
@@ -68,9 +56,6 @@ justify-content: center;
     text-align: center;
     padding-right: 100px;
     padding-bottom: 80px;
-
-
-
 }
 
 .ParrafoDerecha{
@@ -88,7 +73,6 @@ justify-content: center;
 .nav {
 text-decoration: none;
 list-style: none;
-
 }
 
 .nav ul li{
@@ -102,7 +86,6 @@ list-style: none;
         color: rgb(242, 245, 245);
         font-weight: 600;
         padding: 10px 20px;
-        
 }
 
 .nav ul li a:hover{
@@ -112,13 +95,11 @@ list-style: none;
 .info{
 color: rgb(255, 255, 255);
 font-family: open-sans;
-
 }
 
 .perfil {
 font-weight:800;
 font-size:xx-large;
-
 }
 
 
@@ -137,7 +118,7 @@ font-family: open-sans;
 }
 
 .contactanos{
-    color: #ffffff;
+color: #ffffff;
 }
 
 .direccion {
@@ -215,7 +196,6 @@ color: aliceblue
     margin: 80px;
     background-color: #0c0c0c;
     padding: 16px 24px;
-
 }
 
 .face {
@@ -323,8 +303,7 @@ color: #ffffff;
     .actualidad{
         margin-top: 100px;
         text-decoration:underline;
-        
-        }
+}
 
 .lista{
         font-size: medium;
@@ -365,7 +344,6 @@ ul{
 
     .gridContainer {
         flex-direction: column;
-        
         }
 
         .ParrafoDerecha{
@@ -374,6 +352,4 @@ ul{
             text-align: center;
             margin-right: 70px;
         }
-        
-
 }
