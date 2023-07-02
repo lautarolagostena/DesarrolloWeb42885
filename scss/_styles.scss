@@ -222,7 +222,8 @@ list-style: none;
     
     .fondo{
         background-color: rgb(20, 20, 20);
-        padding-left: 500px;
+        text-align: center;
+        
         }
         
         .grupo {
@@ -369,6 +370,12 @@ float: right;
     }
     span{
         font-size: 0.7rem !important;
+    }
+
+    .titulo{
+        color: #000000;
+        text-align: center;
+        padding-right: 100px;
     }
 
     .info {
